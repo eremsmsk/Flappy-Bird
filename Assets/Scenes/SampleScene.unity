@@ -154,7 +154,7 @@ MonoBehaviour:
     type: 3}
   minY: -1.2
   maxY: 2.15
-  x: 4
+  x: 3
   interval: 1
 --- !u!4 &7447028
 Transform:
